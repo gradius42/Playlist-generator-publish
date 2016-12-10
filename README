@@ -1,4 +1,27 @@
-Danse's Playlist Generator est une application Windows permettant de cr�er facilement
-des playlists (.m3u) qui peuvent �tre lu depuis diff�rents support (PC/tablette/mobile).
+Danse's Playlist Generator est une application Windows permettant de créer facilement
+des playlists (.m3u) qui peuvent être lu depuis différents support (PC/tablette/mobile).
 
-# Instruction, et conseil d'utilisation et/ou de test a venir #
+Pour essayer le logiciel : 
+
+   • Vous pouvez commencé par remplacer les fichiers de musique test par de vos propres 
+   musiques au format .MP3.
+   
+   • Vous pouvez aussi ajouter "xxx BPM -" a votre nom de fichier pour donner une description
+   de la vitesse de la musique avec xxx étant un nombre entier représentant le nombre de 
+   battement par minute. (Vous pouvez attribuer ce chiffre arbitrairement pour les tests.) 
+
+   • Vous pouvez ensuite lancer le logiciel et ainsi charger les musiques et leurs informations.
+   (L'étape de chargement peut prendre plus ou moins de temps en fonction du nombre de musique à
+   charger)
+   
+   • Ensuite vous pourrez créer vos playlists directement en fonction des styles de musique. Ou
+   Créer des routines pour ensuite automatiquer la création d'une playlist sur le modèle de votre
+   routine.
+   
+   • Vous pourrez ensuite enregistrer votre playlist dans le répertoire parent de votre 
+   organisation de répertoire de musique.
+   
+   • Vous pourrez ensuite lancé la lecture de la playlist avec le lecteur windows ou vlc par exemple.
+
+
+# Instructions et conseil d'utilisation complet et détaillé à venir #
